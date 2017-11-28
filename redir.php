@@ -21,7 +21,7 @@ $text="NO DATA" ;
 // create a new cURL resource 
 ///$ch = curl_init(); 
 // set URL and other appropriate options 
-$text="SHOWTRACK---akkarapol";
+//$text="SHOWTRACK---akkarapol";
 ///curl_setopt($ch, CURLOPT_URL, "http://server1/api1.php?text=".$text); 
 ///curl_setopt($ch, CURLOPT_HEADER, 0); 
 // grab URL and pass it to the browser 
