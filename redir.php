@@ -36,7 +36,7 @@ $arrContextOptions=array(
     ),
 );  
 
-$response = file_get_contents("https://server1/api1.php?text=".$text, false, stream_context_create($arrContextOptions));
+$response = file_get_contents("https://35.198.228.79/api1.php?text=".$text, false, stream_context_create($arrContextOptions));
 
 //echo $response ;
 ?>
